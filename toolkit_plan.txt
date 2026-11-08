@@ -1,0 +1,20 @@
+==================================================
+              MY PY-TOOLKIT BLUEPRINT
+==================================================
+
+1. TOOL CHOICES AND DESCRIPTIONS:
+   - Tool 1: Simple Calculator. It performs basic mathematical calculations based on user input.
+   - Tool 2: Number Guessing Game. It challenges the user to guess a hidden target number with high/low hints.
+   - Tool 3: Task Organizer. It lets the user add, view, and wipe clear a temporary dynamic tracking list.
+
+2. EXACT MENU TEXT:
+   --- PYTHON TOOLKIT MAIN MENU ---
+   1. Simple Calculator
+   2. Number Guessing Game
+   3. Task Organizer
+   4. Exit Toolkit
+
+3. PROGRAMMING CONCEPTS USED PER TOOL:
+   - Simple Calculator: Conditionals (if/elif/else), F-strings, Input/Output.
+   - Number Guessing Game: Loops (while), Conditionals, F-strings.
+   - Task Organizer: Lists (append/clear), Loops (for), Conditionals, F-strings.
